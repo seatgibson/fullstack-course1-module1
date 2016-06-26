@@ -146,4 +146,4 @@ $ phantomjs -v
 #### Set an Environment variable
 This is needed for configuring your system for Coursera assignment submission
 
-export WEB_URL='http://www.coursera.com'
+export WEB_URL='http://www.coursera.org'
